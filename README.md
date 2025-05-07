@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SPI3 Demo Game
 
 A “demo” 2D Unity game (placeholder) showing movement and scoring.
@@ -13,3 +14,6 @@ A “demo” 2D Unity game (placeholder) showing movement and scoring.
 - **assets/** – graphics & audio  
 - **docs/** – documentation  
 
+=======
+# mario2D
+>>>>>>> b63b1c60dfce54f98d98fc4a3f367464bf8f7e94
