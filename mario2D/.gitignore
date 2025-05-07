@@ -1,0 +1,15 @@
+# Unity generated files
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+
+# VS/IDE
+*.csproj
+*.sln
+
+# Cache & Mac
+sysinfo.txt
+.DS_Store
